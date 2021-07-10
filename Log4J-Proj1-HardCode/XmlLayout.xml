@@ -1,0 +1,40 @@
+<log4j:event logger="com.nt.jdbc.SelectTest2" timestamp="1625879424524" level="INFO" thread="main">
+<log4j:message><![CDATA[Log4J is Ready...]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.nt.jdbc.SelectTest2" timestamp="1625879427024" level="WARN" thread="main">
+<log4j:message><![CDATA[Connection esttablishing in Localhost]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.nt.jdbc.SelectTest2" timestamp="1625879427043" level="DEBUG" thread="main">
+<log4j:message><![CDATA[Connection Established]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.nt.jdbc.SelectTest2" timestamp="1625879427181" level="INFO" thread="main">
+<log4j:message><![CDATA[2  Neeraja  KA   40000.0]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.nt.jdbc.SelectTest2" timestamp="1625879427182" level="INFO" thread="main">
+<log4j:message><![CDATA[3  V Venkateswarlu  KA   100000.0]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.nt.jdbc.SelectTest2" timestamp="1625879427183" level="INFO" thread="main">
+<log4j:message><![CDATA[4  Yudhistir  Madanapalle   100000.0]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.nt.jdbc.SelectTest2" timestamp="1625879427183" level="INFO" thread="main">
+<log4j:message><![CDATA[5  Rama  Ayodhya   1.0E21]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.nt.jdbc.SelectTest2" timestamp="1625879427183" level="INFO" thread="main">
+<log4j:message><![CDATA[6  Krishna  Dwaraka   1.0E17]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.nt.jdbc.SelectTest2" timestamp="1625879427183" level="INFO" thread="main">
+<log4j:message><![CDATA[7  RamaKrishna  Madanapalle   100000.0]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.nt.jdbc.SelectTest2" timestamp="1625879427189" level="DEBUG" thread="main">
+<log4j:message><![CDATA[Closing Main()]]></log4j:message>
+</log4j:event>
+

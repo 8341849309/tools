@@ -1,0 +1,10 @@
+2021-07-10 07:06:50 INFO jdbc.SelectTest   <clinit> main       0 18  Log4J is Ready...
+2021-07-10 07:06:52 WARN jdbc.SelectTest       main main       2442 32  Connection esttablishing in Localhost
+2021-07-10 07:06:52 DEBUG jdbc.SelectTest       main main       2470 36  Connection Established
+2021-07-10 07:06:52 INFO jdbc.SelectTest       main main       2547 49  2  Neeraja  KA   40000.0
+2021-07-10 07:06:52 INFO jdbc.SelectTest       main main       2549 49  3  V Venkateswarlu  KA   100000.0
+2021-07-10 07:06:52 INFO jdbc.SelectTest       main main       2550 49  4  Yudhistir  Madanapalle   100000.0
+2021-07-10 07:06:52 INFO jdbc.SelectTest       main main       2551 49  5  Rama  Ayodhya   1.0E21
+2021-07-10 07:06:52 INFO jdbc.SelectTest       main main       2551 49  6  Krishna  Dwaraka   1.0E17
+2021-07-10 07:06:52 INFO jdbc.SelectTest       main main       2554 49  7  RamaKrishna  Madanapalle   100000.0
+2021-07-10 07:06:52 DEBUG jdbc.SelectTest       main main       2563 81  Closing Main()

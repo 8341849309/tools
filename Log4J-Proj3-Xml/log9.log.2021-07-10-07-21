@@ -1,0 +1,8 @@
+2021-07-10 07:21:44 INFO  SelectTest:18 [main] - Log4J is Ready...
+2021-07-10 07:21:46 WARN  SelectTest:32 [main] - Connection esttablishing in Localhost
+2021-07-10 07:21:46 INFO  SelectTest:49 [main] - 2  Neeraja  KA   40000.0
+2021-07-10 07:21:46 INFO  SelectTest:49 [main] - 3  V Venkateswarlu  KA   100000.0
+2021-07-10 07:21:46 INFO  SelectTest:49 [main] - 4  Yudhistir  Madanapalle   100000.0
+2021-07-10 07:21:46 INFO  SelectTest:49 [main] - 5  Rama  Ayodhya   1.0E21
+2021-07-10 07:21:46 INFO  SelectTest:49 [main] - 6  Krishna  Dwaraka   1.0E17
+2021-07-10 07:21:46 INFO  SelectTest:49 [main] - 7  RamaKrishna  Madanapalle   100000.0
